@@ -1,1 +1,0 @@
-import{j as r}from"./index-BG8D6eWL.js";import{P as t}from"./Page-CR9QpEP9.js";import"./scroll-area-CZICreiy.js";import"./index-BlU6dFyh.js";import"./index-CGm2caBu.js";import"./index-CE4sjjU6.js";const a=()=>r.jsx(t,{children:r.jsx("div",{children:"Support Page"})});export{a as default};
