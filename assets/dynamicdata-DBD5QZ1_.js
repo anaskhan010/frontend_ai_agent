@@ -1,0 +1,2 @@
+const e=[{id:1,title:"Getting Started with Our Product",category:"Onboarding",views:1234,created_at:"2024-10-01"},{id:2,title:"How to Use Feature X",category:"Features",views:987,created_at:"2024-09-25"},{id:3,title:"FAQs for Common Issues",category:"Support",views:532,created_at:"2024-08-10"}],t=[{id:1,actionName:"Send Email",description:"Send an email to selected contacts."},{id:2,actionName:"Schedule Meeting",description:"Schedule a follow-up meeting."}];export{t as a,e as k};
+//# sourceMappingURL=dynamicdata-DBD5QZ1_.js.map
