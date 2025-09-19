@@ -1,0 +1,6 @@
+number,name,email,external_id
++14151234567,John Doe,john@example.com,customer_001
++14159876543,Jane Smith,jane@example.com,customer_002
++14155551234,Bob Johnson,bob@example.com,customer_003
++14155559876,Alice Brown,alice@example.com,customer_004
++14155555555,Charlie Wilson,charlie@example.com,customer_005
