@@ -1,0 +1,2 @@
+import{d as i,t as r}from"./index-C95eVPAi.js";async function c(t){var a,e;try{const s=await i.post("/api/gmail/emails/send",t);if(s.data.success)return r.success("Email sent successfully!"),s.data.data;throw new Error(s.data.message||"Failed to send email")}catch(s){console.error("Error sending Gmail email:",s);const o=((e=(a=s.response)==null?void 0:a.data)==null?void 0:e.message)||"Failed to send email";throw r.error(o),s}}export{c as s};
+//# sourceMappingURL=gmailService-BrHU3Xj1.js.map
