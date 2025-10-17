@@ -1,0 +1,1 @@
+{"version":3,"file":"client-DANOwbWQ.js","sources":["../../src/api/client.ts"],"sourcesContent":["import axiosInstance from './axios/axiosInstance';\n\n// Export the axios instance as apiClient for consistency\nexport const apiClient = axiosInstance;\n\nexport default apiClient;\n"],"names":["apiClient","axiosInstance"],"mappings":"wCAGO,MAAMA,EAAYC"}
