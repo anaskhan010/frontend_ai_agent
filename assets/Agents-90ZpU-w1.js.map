@@ -1,1 +1,0 @@
-{"version":3,"file":"Agents-90ZpU-w1.js","sources":["../../src/pages/Agents/Agents.tsx"],"sourcesContent":["import VapiStyleAgents from './VapiStyleAgents';\r\n\r\nconst Agents = () => {\r\n  return <VapiStyleAgents />;\r\n};\r\n\r\nexport default Agents;\r\n"],"names":["Agents","VapiStyleAgents"],"mappings":"obAEA,MAAMA,EAAS,UACLC,EAAgB,EAAA"}
