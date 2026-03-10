@@ -1,0 +1,2 @@
+import{j as t}from"./ui-B8VyAbFl.js";import r from"./VapiStyleAgents-BDA9vgEU.js";import"./vendor-DG599jyl.js";import"./query-CWB_8EHL.js";import"./agentService-0idXMhHm.js";import"./index-DOWSgvTu.js";import"./router-BnJytTjr.js";import"./avatar-B0IcQfjY.js";import"./table-DSVhZuTT.js";import"./defaultAssistantTemplateService-B-nJGTiB.js";import"./slider-CEOUgwMr.js";import"./client-c_HzDNpG.js";import"./vapiProviders-C-Wchxvi.js";const l=()=>t.jsx(r,{});export{l as default};
+//# sourceMappingURL=Agents-BXC6SEMK.js.map
